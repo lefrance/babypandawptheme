@@ -1,0 +1,144 @@
+
+
+
+
+
+h2
+ {
+    font-family: "Montserrat-Regular", sans-serif;
+    letter-spacing: 2px;
+}
+
+}
+h2 {
+font-size: 40px;}
+
+h6 {
+    font-size: 14px;
+}
+
+strong {
+    color: #1F1F1F;
+    font-family: "Montserrat-Regular", sans-serif;
+    letter-spacing: 1px;
+}
+
+p,
+ {
+    font-family: 'Roboto-Light', sans-serif;
+	font-size: 1.02em;
+    color: #7D7D7D;
+    line-height: 1.6;
+}
+
+
+
+
+
+.p {
+    font-size: 1.02em;
+    color: #7D7D7D;
+    line-height: 1.6;
+}
+
+
+
+#about-us .main-heading,
+
+
+
+/*star about-us section*/
+
+#about-us {
+    display: block;
+    overflow: hidden;
+    background-color: #3C3D3E;
+}
+#about-us .main-heading,
+#about-us .sub-heading {
+    color: #808080;
+}
+.page-about-us {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.about-us-block {
+    display: inline-block;
+    width: 100%;
+    max-width: 800px;
+    padding-top: 80px;
+    margin: 0 auto;
+}
+.about-us-paragraph {
+    -webkit-column-count: 2;
+    /* Chrome, Safari, Opera */
+    
+    -moz-column-count: 2;
+    /* Firefox */
+    
+    column-count: 2;
+    -webkit-column-gap: 20px;
+    /* Chrome, Safari, Opera */
+    
+    -moz-column-gap: 20px;
+    /* Firefox */
+    
+    column-gap: 20px;
+    text-align: left;
+}
+.about-us-paragraph p {
+    line-height: 24px;
+    margin: 0;
+}
+.about-us-paragraph p:first-child:first-letter {
+    font-size: 72px;
+    float: left;
+    padding: 10px;
+    height: 64px;
+    color: #D4B068;
+}
+
+. p {
+    color: #8e8d8d;
+    margin: 0;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    font-weight: bold;
+
+    /*----end about-us style--------*/
+
+
+    /*----start about-us style--------*/
+    
+    .about-us-block {
+        display: inline-block;
+        width: 75%;
+        max-width: 800px;
+        padding-top: 48px;
+        margin: 0 auto;
+    }
+    .about-us-paragraph {
+        -webkit-column-count: 1;
+        /* Chrome, Safari, Opera */
+        
+        -moz-column-count: 1;
+        /* Firefox */
+        
+        column-count: 1;
+        -webkit-column-gap: 20px;
+        /* Chrome, Safari, Opera */
+        
+        -moz-column-gap: 20px;
+        /* Firefox */
+        
+        column-gap: 20px;
+        text-align: center;
+    }
+    .about-us-paragraph p:first-child:first-letter {
+        font-size: 50px;
+        float: left;
+        padding: 2px;
+        height: 64px;
+        color: #fff;
+
